@@ -2,6 +2,9 @@
 
 *Hi, I go by FXgraphing on the internet*
 
+> [!NOTE]
+> I use Fedora Kinoite on my laptop and desktop, I like it and I think it's great - You should give it a try aswell if you've got the time.
+
 I'm currently learning HTML, CSS, JavaScript and Python.
 
 ## Things I know and/or use
