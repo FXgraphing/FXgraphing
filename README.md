@@ -6,6 +6,3 @@
 > I use Fedora Kinoite on my laptop and desktop, I like it and I think it's great - You should give it a try aswell if you've got the time.
 
 I'm currently learning HTML, CSS, JavaScript and Python.
-
-## Things I know and/or use
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,bash,git,obsidian,vscodium)](https://skillicons.dev)
